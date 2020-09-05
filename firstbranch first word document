@@ -8,5 +8,9 @@ git github ögreniyorum...
 
 bu firstbranch ın içerisinde first word document...
 
+<<<<<<< HEAD
 
 i hereby change you!!!
+=======
+mergelemediysen bunu görmezsin.
+>>>>>>> master
